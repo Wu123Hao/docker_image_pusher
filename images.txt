@@ -6,5 +6,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64 jeessy/ddns-go:latest
---platform=linux/arm64 flik007/nastools-fixed:2.9.1
-
+#--platform=linux/arm64 flik007/nastools-fixed:2.9.1
+--platform=linux/arm64 tiptime/ttnode:latest
